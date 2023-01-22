@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tamagotchi</string>
+    <string name="version">version: 0.0.0.1</string>
+    <string name="newPlayer">Новый игрок</string>
+    <string name="selectPlayer">Выбрать игрока</string>
+    <string name="enterName">Введите имя</string>
+    <string name="start">Начать</string>
+    <string name="thisNameIsOpposite">Такое имя уже занято</string>
+    <string name="str_deletePlayer">Удалить игрока</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="delete">Удалить</string>
+    <string name="select">Выбрать</string>
+</resources>
